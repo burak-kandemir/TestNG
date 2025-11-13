@@ -10,4 +10,9 @@ public class Main {
         System.out.println("Hello World");
     }
 
+    @Test
+    public void SecondTest(){
+        System.out.println("bye");
+    }
+
 }
